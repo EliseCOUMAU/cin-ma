@@ -1,0 +1,75 @@
+body{
+	background-color: #D72638;
+	padding: 150px;
+	font-family: 'Playfair Display', serif;
+}
+
+h1 {
+	color: #D72638 ;
+	text-align: center;
+}
+
+
+img {
+	width: 300px;
+	height: 400px;
+	object-fit: cover;
+}
+
+.big-size {
+	width: 800px;
+	height: 900px;
+	object-fit: cover;
+}
+
+.small-size {
+	width: 30%;
+	height: 350px;
+	object-fit: 300px;
+}
+
+
+.element-center {
+	text-align: center;
+}
+
+
+div {
+	background-color: #F2DD6E;
+	padding-right: 50px;
+	padding-left: 50px;
+	border: 10px solid whitesmoke;
+}
+
+
+.deux {
+	background-color: #F56416;
+}
+
+.trois {
+	background-color: #F56416 ;
+}
+
+.element-aligned {
+	background-color: #F56416 ;
+	border: #F56416;
+	display: flex;
+	justify-content: space-around;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+
+}
+
+a {
+	color: #D72638;
+}
+
+a:hover {
+	color: #FC6DAB;
+	font-size: 22px;
+	font-weight: 600;
+}
